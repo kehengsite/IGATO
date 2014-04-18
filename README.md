@@ -1,5 +1,5 @@
 IGATO
 =====
 
-The Interplanetary Gravity Assist Trajectory Optimizer (IGATO) is an open-source cross-platform application designed to quickly and intuitively tackle difficult trajectory optimization problems involving multiple gravity assist (flyby) manuevers.
+IGATO是一款开源跨平台的应用程序，致力于快速地、直观地处理多次引力助推机动情况下的轨道优化问题。
 
